@@ -1,0 +1,2 @@
+def security():
+    return None
